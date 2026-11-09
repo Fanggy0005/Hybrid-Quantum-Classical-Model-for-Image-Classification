@@ -1,1 +1,2 @@
 # Hybrid-Quantum-Classical-Model-for-Image-Classification
+This project explores and benchmarks the performance of Quantum Machine Learning (QML) using a Variational Quantum Classifier (VQC) against a Classical Machine Learning approach (Support Vector Machine - SVM) for image classification tasks using the MNIST dataset (restricted to digits 0 and 1). Dimensionality is reduced to 4 bits (4 qubits) using Qiskit and Scikit-Learn.
